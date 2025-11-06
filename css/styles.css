@@ -241,10 +241,6 @@ img {
     gap: 24px;
 }
 
-.section-two h2 {
-    margin-bottom: 8px;
-}
-
 .list-item {
     width: calc((100% - 72px) / 4);
 }
